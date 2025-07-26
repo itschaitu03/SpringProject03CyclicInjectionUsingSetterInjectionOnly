@@ -1,15 +1,15 @@
 
+      
 # Java Developer
 <!DOCTYPE html>
 <html>
-  <img width="100%" src="https://static.vecteezy.com/system/resources/previews/004/815/642/large_2x/software-development-programming-language-coding-3d-isometric-pc-computer-with-digital-application-isolated-on-white-background-design-vector.jpg"/>
+  <img width="100%" src="https://github.com/itschaitu03/itschaitu03/blob/main/Logo03.jpg"/>
 
-![logo]("C:\Users\itschaitu03\OneDrive\Pictures\Camera Roll\4.jpg")
-      
+
 <h1 align="center">Hi 👋, I'm Chaitanya Aradhye</h1>
 <h3 align="center">💻 Java Developer | Backend Enthusiast | Spring Explorer</h3>
 
-<img width="63%" src="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1"/>
+<img align="right" alt="coding03" width="45%" src="https://github.com/itschaitu03/itschaitu03/blob/main/Coding03.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itschaitu03&label=Profile%20views&color=0e75b6&style=flat" alt="itschaitu03" /> </p>
 
@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/its.chaitu03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its.chaitu03" /></a><a href="https://ko-fi.com/its.chaitu03"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="its.chaitu03" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itschaitu03&show_icons=true&locale=en&layout=compact" alt="itschaitu03" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itschaitu03&show_icons=true&locale=en&layout=compact" alt="itschaitu03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itschaitu03&show_icons=true&locale=en" alt="itschaitu03" /></p>
 
